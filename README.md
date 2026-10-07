@@ -1,20 +1,20 @@
 # 📰 Release Notes – Version 1.2
 
-## 🚀 New Features
+## New Features
 
 * Added dashboard analytics
 
-## 🐞 Bug Fixes
+## Bug Fixes
 
 * Fixed login issue
 
-## ⚡ Improvements
+## Improvements
 
 * Faster loading time
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 * Release Documentation
 * Change Communication
